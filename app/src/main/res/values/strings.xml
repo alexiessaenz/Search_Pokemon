@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search_Pokemon</string>
+    <string name="tv_nombre_pokemon">Introducir Nombre Pokemon:</string>
+    <string name="ed_name_pokemon">Name</string>
+    <string name="bt_enviar_pokemon">Enviar</string>
+    <string name="tv_repuesta_pokemon" />
+</resources>
